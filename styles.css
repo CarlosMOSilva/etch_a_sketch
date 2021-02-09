@@ -1,0 +1,10 @@
+
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid blue;
+}
+
+.square {
+    transition: background-color ease-out 0.2s;
+}
